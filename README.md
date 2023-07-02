@@ -6,7 +6,8 @@ Student activity tracker is a project which is developed for students to manage,
 # Project Description
 #### Student activity tracker consist of 3 roles
 
-## 1.Student: #### For student I will provide Profile,test where they can test their skills,dashboard to check their performance and results like score.suggestions and remarks
+## 1.Student: 
+#### For student I will provide Profile,test where they can test their skills,dashboard to check their performance and results like score.suggestions and remarks
 
 ## 2.Admin: 
 #### Admin can have access about test conducted and their results,they can able to add new records etc.The admin has access to check results of all the students The admin can able to sort the students based upon their results and performance
